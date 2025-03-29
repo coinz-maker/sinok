@@ -1,0 +1,21 @@
+{
+  "name": "Legendary TON #187",
+  "description": "Лимитированная коллекция доходных NFT ревардного токена $SINOK. Держи у себя NFT и получай доход с ревардного фонда SINOK.",
+  "image": "https://images-sinok.4everland.store/187.png",
+  "dna": "fe6e90bad2b72426d9a183e22c148d5f29331fe2",
+  "edition": 187,
+  "date": 1743091773909,
+  "buttons": [
+    {
+      "label": "SINOK TELEGRAM",
+      "uri": "https://t.me/slivi_tapalok"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Income",
+      "value": "0.0832% in $TON"
+    }
+  ],
+  "compiler": "Skareon Agency"
+}
